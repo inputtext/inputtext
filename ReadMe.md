@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I'm currently building **DevCollective** – A gamified learning platform for developers
+🔭 I'm currently building **DevCollective** – A gamified learning platform for College Student Developers 
 
 👯 I'm open to collaborating on **AI, Full Stack, Open Source, and Developer Tools**
 
