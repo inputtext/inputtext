@@ -1,16 +1,17 @@
-# 💫 About Me
+# About Me
 
-🔭 I'm currently building **DevCollective** – A gamified learning platform for College Student Developers 
+I'm currently building **DevCollective**, a gamified learning platform for college student developers.
 
-👯 I'm open to collaborating on **AI, Full Stack, Open Source, and Developer Tools**
+I'm interested in **AI, Full Stack Development, Open Source, and Developer Tools**, and I'm always open to collaborating on meaningful projects in these areas.
 
-🤝 I'm seeking guidance in **Scalable System Design, Distributed Systems, and AI Engineering**
+Right now, I'm focused on improving my skills in **C++, Data Structures & Algorithms, React, Node.js, Express, MongoDB, and much more**.
 
-🌱 Currently mastering **C++, Data Structures & Algorithms, React, Node.js, Express, MongoDB, and Machine Learning**
+I'm also exploring **scalable system design, distributed systems, and AI engineering** to understand how real-world systems are designed and built.
 
-💬 Ask me about **React, JavaScript, MERN, GitHub, Competitive Programming, or Project Development**
+You can talk to me about **React, JavaScript, MERN, GitHub, Competitive Programming, and Project Development**.
 
-⚡ Fun fact: **My goal is to become an AI Engineer while building products that solve real-world problems.**
+My long-term goal is to become an **AI Engineer** and build products that solve real-world problems.
+
 
 ---
 
