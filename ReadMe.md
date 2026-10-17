@@ -4,11 +4,11 @@ I'm currently building **DevCollective**, a gamified learning platform for colle
 
 I'm interested in **AI, Full Stack Development, Open Source, and Developer Tools**, and I'm always open to collaborating on meaningful projects in these areas.
 
-Right now, I'm focused on improving my skills in **C++, Data Structures & Algorithms, React, Node.js, Express, MongoDB, and much more**.
+Right now, I'm focused on improving my skills in **C++, Data Structures & Algorithms, React,React native, Capacitor.js,expo, Node.js, Express, MongoDB, and much more**.
 
 I'm also exploring **scalable system design, distributed systems, and AI engineering** to understand how real-world systems are designed and built.
 
-You can talk to me about **React, JavaScript, MERN, GitHub, Competitive Programming, and Project Development**.
+You can talk to me about **React, JavaScript, MERN, GitHub, Competitive Programming, Android development , and Project Development**.
 
 My long-term goal is to become an **AI Engineer** and build products that solve real-world problems.
 
